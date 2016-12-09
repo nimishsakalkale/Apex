@@ -10,7 +10,7 @@
 
 5) design document is available in folder design_document.
 
-6) Sample input files provided on blackboard are in input_files folder.
+6) Sample input files arer in input_files folder.
 
 7) Running class files has been copied to executable_class_files folder . These are the same class files which are generaed by make in current directory.  
    'Simulator' is the class file which contains main method and runs simulator. Syntax to run is available in step 3.
