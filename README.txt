@@ -1,3 +1,8 @@
+This projecct simulates the behviour of the microprocessor pipeline.
+Sample instruction files are provided in input files. 
+Overall structure of code organization and responsibility of modules is explained in designed document.
+How to run the project in explained below.
+
 1) Run Make clean to remove all class file from the current folder.
 2) Run Make in linux environment to build program. It will generate .class files in current directory.
 
